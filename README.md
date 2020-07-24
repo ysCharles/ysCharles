@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=onedark&show_icons=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLPageView)](https://github.com/ysCharles/TLPageView)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLPageView&theme=dracula)](https://github.com/ysCharles/TLPageView)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLCommon&theme=dracula)](https://github.com/ysCharles/TLCommon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLSerializable&theme=dracula)](https://github.com/ysCharles/TLSerializable)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLNetTool&theme=dracula)](https://github.com/ysCharles/TLNetTool)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLQRCode&theme=dracula)](https://github.com/ysCharles/TLQRCode)
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=cobalt)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=synthwave)
