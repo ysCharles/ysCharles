@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=onedark&show_icons=true)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLPageView)](https://github.com/ysCharles/TLPageView)
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=cobalt)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=synthwave)
