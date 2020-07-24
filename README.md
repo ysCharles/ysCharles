@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=onedark&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysCharles&theme=onedark&show_icons=true)](https://github.com/ysCharles)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLPageView&theme=dracula)](https://github.com/ysCharles/TLPageView)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ysCharles&repo=TLCommon&theme=dracula)](https://github.com/ysCharles/TLCommon)
